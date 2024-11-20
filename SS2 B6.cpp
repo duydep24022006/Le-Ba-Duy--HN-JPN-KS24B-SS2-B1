@@ -9,7 +9,7 @@ int main(){
 	C = 2 * PI * r;
 	printf("chu vi hinh tron la:%.3f\n",C);
 //tinh dien tich hinh tron
-	S = 2 * PI * r * r;
+	S = PI * r * r;
 	printf("dien tich hinh tron la:%.3f",S);
 	
 	return 0;
